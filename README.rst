@@ -27,8 +27,8 @@ In the terminal, run the following commands:
 .. code-block:: bash
 
     $ git clone https://github.com/SpicyDevTeam/cscart-docs.git      # Clone the repo
-    $ cd docs                                           # Switch to the docs directory
-    $ pip install -r requirements.txt                   # Install dependencies
+    $ cd docs                                                        # Switch to the docs directory
+    $ pip install -r requirements.txt                                # Install dependencies
 
 -----
 Build
